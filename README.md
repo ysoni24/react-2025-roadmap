@@ -17,6 +17,7 @@ Welcome to the **React Developer Roadmap**! This guide will help you navigate th
 10. [Forms](#-forms)
 11. [Advanced Topics](#-advanced-topics)
 12. [Mobile Development](#-mobile-development)
+13. [Video Resources](#-video-resources)
 
 ---
 
@@ -123,7 +124,24 @@ Welcome to the **React Developer Roadmap**! This guide will help you navigate th
 
 ---
 
-### 🛠️ Additional Resources
+### 🎥 Video Resources
+- **Crash Course Videos**
+  - [freeCodeCamp](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
+  - [JS Mastery](https://www.youtube.com/watch?v=XxXyfkrP298)
+  - [Codewithharry in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU)
+- **Youtube Channels** 📺
+  - [Javascript Mastery](https://www.youtube.com/@javascriptmastery)
+  - [Sonny Sangha](https://youtube.com/@sonnysangha)
+  - [Traversy Media](https://www.youtube.com/@TraversyMedia)
+  - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+  - [Lama Dev](https://www.youtube.com/@LamaDev)
+  - [Theo - t3.gg](https://youtube.com/@t3dotgg)
+  - [Jack Herrington](https://www.youtube.com/@jherr)
+  - [Cosden](https://www.youtube.com/@cosdensolutions)
+  - [developedbyed](https://www.youtube.com/@developedbyed)
+- **Udemy Courses**
+  - [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+  - [React Native](https://www.udemy.com/course/react-native-the-practical-guide/)
 
 🌟 **Pro Tip:** This roadmap is flexible—learn topics in any order based on your project needs and interests!
 
